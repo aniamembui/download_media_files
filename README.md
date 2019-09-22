@@ -1,5 +1,5 @@
 # download_media_files
-Bash script using WGET to download and replicate steaming files locally
+Bash script using WGET to download and replicate streaming files locally
 
 The file funciones.fx stores the functions called in captureFiles.sh
 
