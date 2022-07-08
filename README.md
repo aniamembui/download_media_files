@@ -8,7 +8,7 @@ I tried to keep it as simple I could ( KISS ) , because I dont want to depend fr
 
 It is Bash script using WGET to download and replicate streaming files indexed in M3U8 file, locally.
 
-In order to put in a remote server, I mapped a local folder in a remote server ( using a VON or just a SSH connection ).
+In order to put in a remote server, I mapped a local folder in a remote server ( using a VPN or just a SSH connection ).
 
 The file funciones.fx stores the functions called in captureFiles.sh
 
